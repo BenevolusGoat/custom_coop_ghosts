@@ -9,7 +9,7 @@ Additionally, there's modded character support! Included in the mod folder is a 
 Steam Library > Right-click Isaac > Manage > Browse Local Files > mods > custom_coop_ghosts
 
 ### Pre-created Modded Character Sprites
-Due to the niche of this mod, it was be up to me to create support for more of the popular modded characters. Below is a list of [b]37 modded characters[/b] supported inside this mod with links to their workshop pages.
+Due to the niche of this mod, it was be up to me to create support for more of the popular modded characters. Below is a list of **37 modded characters** supported inside this mod with links to their workshop pages.
 
 - [Sarah, Dante and Charon](https://steamcommunity.com/sharedfiles/filedetails/?id=2880387531)
 - [Fiend + Tainted, Golem, China, Slippy](https://steamcommunity.com/sharedfiles/filedetails/?id=2851063440)
